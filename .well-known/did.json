@@ -1,0 +1,21 @@
+{
+    "id": "did:web:sujitaw.github.io",
+    "@context": [
+        "https://w3id.org/did/v1",
+        "https://w3id.org/security/suites/ed25519-2018/v1"
+    ],
+    "authentication": [
+        "did:web:sujitaw.github.io#key-1"
+    ],
+    "assertionMethod": [
+        "did:web:sujitaw.github.io#key-1"
+    ],
+    "verificationMethod": [
+        {
+            "id": "did:web:sujitaw.github.io#key-1",
+            "type": "Ed25519VerificationKey2018",
+            "controller": "did:web:sujitaw.github.io",
+            "publicKeyBase58": "JC5NJBqBf88LGb6v6wEtWFP6fQ1aNyX1NixNoPndZ99L"
+        }
+    ]
+}
