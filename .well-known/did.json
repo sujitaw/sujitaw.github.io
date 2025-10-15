@@ -15,7 +15,8 @@
             "id": "did:web:sujitaw.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:sujitaw.github.io",
-            "publicKeyBase58": "JC5NJBqBf88LGb6v6wEtWFP6fQ1aNyX1NixNoPndZ99L"
+            "publicKeyBase58": "BwCF8yKZc5VjzNNnEAgZbLpvtcTspZ7FDkKuzZxC3YMX"
         }
     ]
 }
+
